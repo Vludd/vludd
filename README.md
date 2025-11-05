@@ -86,8 +86,16 @@ A fast-paced 2D pixel shooter inspired by [Duck Game](https://store.steampowered
 ## ▸｜Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vludd&show_icons=true&theme=github_dark" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vludd&layout=compact&theme=github_dark" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Vludd&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800" 
+    height="180" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vludd&layout=compact&theme=github_dark&hide_progress=false&langs_count=8&cache_seconds=1800" 
+    height="180" 
+    alt="Top Languages" 
+  />
 </p>
 
 ---
