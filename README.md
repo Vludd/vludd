@@ -90,11 +90,7 @@ A fast-paced 2D pixel shooter inspired by [Duck Game](https://store.steampowered
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vludd&layout=compact&theme=github_dark" height="180"/>
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Vludd&theme=github-dark-blue&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" />
-  </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Vludd&theme=github-dark-blue&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
