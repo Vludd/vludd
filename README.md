@@ -1,32 +1,30 @@
 <h1 align="center">👋Hi, I'm Vludd</h1>
-<h2 align="center">Backend Developer</h2>
-<p align="center">⚙️ Building things that make development smarter and faster.</p>
+<h2 align="center">Backend Developer | Python Developer | AI Engineer</h2>
+<p align="center">⚙️ I create services / tools that simplify development and solve business problems</p>
 
 ---
 
-## ▸｜About Me:
+## About Me:
+I am a developer with more than 5 years of experience.
 
-- Backend developer with a focus on **Python** (FastAPI)
+### Key facts:
+- Backend developer with an emphasis on **Python** using the **FastAPI** framework
 - Exploring **Fullstack** development using **React + Vite + TypeScript**
-- Love building tools that automate processes and make developers’ lives easier
+- I love building tools that automate processes and make life easier for developers
 - **Game developer** as a hobby - enjoy creating 2D arcade projects in the style of pixel art
-- Interested in integrating **AI** and local neural models into applications  
-- Always curious to learn something new
+- Interested in integrating cloud / local **AI** into development
 
 ---
 
-## ▸｜My Skills:
-
-- **Languages:** Python
-- **Frameworks:** FastAPI, SQLAlchemy, Pydantic
-- **Databases:** MySQL, PostgreSQL, Redis
+## My Skills:
+- **Languages:** Python (FastAPI), C# (WPF, Unity)
+- **Databases:** MySQL/PostgreSQL, Redis
 - **DevOps:** Docker, docker-compose
-- **GameDev:** Unity (C#)
-- **Other Tools:** Git, Linux, VSCode
+- **Other Tools:** Git, Linux
 
 ---
 
-## ▸｜Project Showcase
+## Project Showcase
 
 <table>
 <tr>
@@ -34,7 +32,7 @@
 <td align="center">
 
 ### [🤖 MyPrettyAI](https://github.com/Vludd/my-pretty-ai)
-<p>An offline AI service with TTS and speech recognition</p>
+<p>Pilot pet-project. Offline AI chat, including TTS, STT and local LLM</p>
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="20"/>
@@ -46,7 +44,7 @@
 <td align="center">
 
 ### [💾 save.me](https://github.com/Vludd/save-me)
-<p>Analyze links from YouTube, TikTok, and other platforms to see available download formats</p>
+<p>A tool for analyzing links of YouTube, TikTok and other platforms with the ability to download content with a choice of quality.</p>
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="20"/>
@@ -59,12 +57,16 @@
 
 <td align="center">
 
-### [📡 Jobs Parser Telegram](https://github.com/Vludd/jobs-parser-tg)
-<p>A simple parser of job postings from Telegram for further processing or analysis</p>
+### [👾 Work Hunter Telegram Bot](https://github.com/Vludd/workhunter-tg-bot)
+<p>Telegram Bot with fine-tuning of filters to find suitable vacancies from Telegram channels with Tinder-mechanics</p>
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/MTProto-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Data_Parsing-ETL-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="20"/>
+<br/>
+<img src="https://img.shields.io/badge/MTProto-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="20"/>
 
 </td>
 
@@ -82,7 +84,7 @@
 <img src="https://img.shields.io/badge/2D_Game_Development-FF6F00?style=for-the-badge&logo=unity&logoColor=white" height="20"/>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/Release-Soon-FF0000?style=for-the-badge&logo=itch.io"/>
+  <img src="https://img.shields.io/badge/itch.io-Soon-FF0000?style=for-the-badge&logo=itch.io"/>
 </a>
 
 </td>
@@ -92,21 +94,22 @@
 
 ---
 
-## ▸｜Fun Facts:
-- I often **develop offline tools and utilities** for debugging and data analysis
-- I enjoy **customizing OS** environments and optimizing workflows
-- **My long-term goal** is to become a **Fullstack developer** with strong AI integration skills
-
----
-
-## ▸｜Contact:
+## Contacts:
 
 - Telegram: [@vluddexe](https://t.me/vluddexe)
 - Email: vludd.exe@gmail.com
 
 ---
 
-## ▸｜Stats:
+## Fun Facts:
+- I often **develop offline tools and utilities** for debugging and data analysis
+- Always curious to learn something new
+- I enjoy **customizing OS** environments and optimizing workflows
+- **My long-term goal** is to become a **Fullstack developer** with strong AI integration skills
+
+---
+
+## Stats:
 
 <p align="center">
   <img 
