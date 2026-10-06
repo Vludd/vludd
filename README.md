@@ -34,15 +34,15 @@
 
 <td width="50%" valign="top">
 
-<p align="center">
+
 <img
-  src="./assets/audexa-frontend.jpg"
+  src="https://github.com/user-attachments/assets/8155be7a-92af-4478-91b4-10b350f46b4f"
   width="100%"
   alt="Audexa"
+  align="center"
 />
-</p>
 
-<h3>Audexa Audio Control - Frontend</h3>
+<h3><a href="https://github.com/Vludd/audexa-frontend">Audexa Audio Control - Frontend</a></h3>
 
 <p>
 Audio automation and control platform
@@ -56,10 +56,6 @@ Audio automation and control platform
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
   <img src="https://img.shields.io/github/license/Vludd/audexa-frontend?style=flat-square" />
 </p>
-
-<a href="https://github.com/Vludd/audexa-frontend">
-View repo →
-</a>
 
 </td>
 
