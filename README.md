@@ -42,7 +42,7 @@
   align="center"
 />
 
-<h3><a href="https://github.com/Vludd/audexa-frontend">Audexa Audio Control - Frontend</a></h3>
+<h3><a href="https://github.com/Vludd/audexa-frontend">Audexa Audio Control</a></h3>
 
 <p>
 Audio automation and control platform
