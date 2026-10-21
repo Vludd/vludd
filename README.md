@@ -36,13 +36,13 @@
 
 
 <img
-  src="https://github.com/user-attachments/assets/8155be7a-92af-4478-91b4-10b350f46b4f"
+  src="https://github.com/user-attachments/assets/52c5dd8a-10b1-4498-ad73-faeeb2910eff"
   width="100%"
   alt="Audexa"
   align="center"
 />
 
-<h3><a href="https://github.com/Vludd/audexa-frontend">Audexa Audio Control</a></h3>
+<h3><a href="https://github.com/Vludd/audexa-desktop">Audexa Audio Control</a></h3>
 
 <p>
 Audio automation and control platform
